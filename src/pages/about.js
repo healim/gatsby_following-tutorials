@@ -9,3 +9,4 @@ export default () => (
     <p>Such wow. Very React.</p>
   </div>
 )
+
